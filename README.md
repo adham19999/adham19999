@@ -44,29 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adham19999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adham's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham19999&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham19999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Fun Touch
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adham19999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
 ###  Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
