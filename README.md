@@ -27,7 +27,7 @@
 
 ---
 
-### 🧠 Languages and Tools:
+### Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,css,flutter,firebase,vscode,git" />
 </p>
