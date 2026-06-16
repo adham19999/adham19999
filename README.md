@@ -1,54 +1,62 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Adham+Ayman!;Computer+Science+Student;Passionate+about+Coding+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Adham+Ayman;Computer+Science+Student;Building+things+with+code" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=adham19999&label=Profile+views&color=6A5ACD&style=flat-square" alt="profile views" />
+
+</div>
+
+---
+
+### About Me
+
+Computer Science student with a focus on software development, AI, and problem solving. I enjoy building projects that combine logic with clean design.
+
+- Currently learning **Flutter & Backend Development**
+- Working with **C++, Python, Java, and Firebase**
+- Interested in **AI, game development, and mobile apps**
+
+---
+
+### Skills
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adham19999&label=Profile%20views&color=6A5ACD&style=flat-square" alt="adham19999" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,flutter,firebase,git,vscode" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+### Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/adham19999" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45"/>
+  <a href="https://www.linkedin.com/in/adham-ayman-2b8567319/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.instagram.com/adham72278?igsh=MWNzMzlqMnNhd25tdg==" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="45"/>
+  &nbsp;
+  <a href="https://www.instagram.com/adham72278/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.facebook.com/share/1A1QY5oyBi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="45"/>
+  &nbsp;
+  <a href="https://www.facebook.com/adham.ayman.772660/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
   </a>
+  &nbsp;
   <a href="https://github.com/adham19999" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
 ---
 
-### Languages and Tools:
+### GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,css,flutter,firebase,vscode,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adham19999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham19999&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### ⚡ About Me:
 <p align="center">
-  🌱 I'm currently learning **Flutter & Backend Development**<br>
-  💡 I love working on **creative coding projects** and **real-world apps**<br>
-  💬 Ask me about **C++, Flutter, or Firebase**<br>
-  🚀 Always exploring **new technologies** and **AI concepts**
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
-
-###  Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
----
-
-⭐️ From [Adham Ayman](https://github.com/adham19999)
