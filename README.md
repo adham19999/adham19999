@@ -251,14 +251,6 @@ Building software across AI, systems programming, and mobile development through
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adham19999&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
