@@ -218,21 +218,20 @@ Building software across AI, systems programming, and mobile development through
 
 <div align="center">
 
-**3DGES**
+### 🏆 Edges Software Development Diploma
 
-<img src="https://img.shields.io/badge/Software%20Development%20Diploma-3DGES-1a1a2e?style=for-the-badge&logo=buffer&logoColor=white&labelColor=6A5ACD" />
-&nbsp;
-<img src="https://img.shields.io/badge/Dec%202025-12%20Weeks-4B0082?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/ID-SWD--5--10-indigo?style=flat-square" />
+<a href="https://drive.google.com/file/d/1Angg-3nTbC3bhL1ar70Eb3-aM_KQnqk_/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/View-Certificate-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/More%20Certifications-In%20Progress-6A5ACD?style=flat-square&logo=clock&logoColor=white" />
+**Duration:** 12 Weeks
+**Completion:** December 2025
+**Credential ID:** SWD-5-10
 
 </div>
 
----
 
 ## GitHub Analytics
 
