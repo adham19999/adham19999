@@ -216,7 +216,9 @@ Building software across AI, systems programming, and mobile development through
 
 ## Certifications
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ### 🏆 Edges Software Development Diploma
 
@@ -225,14 +227,31 @@ Building software across AI, systems programming, and mobile development through
 </a>
 
 <br><br>
-
-**Duration:** 12 Weeks
-**Completion:** December 2025
+**Provider:** EDGES<br>
+**Duration:** 12 Weeks<br>
+**Completion:** December 2025<br>
 **Credential ID:** SWD-5-10
 
-</div>
+</td>
 
+<td align="center" width="50%">
 
+### 🏆 Advanced Software Development Diploma
+
+<a href="https://drive.google.com/file/d/1Tyn7XCpl0tNrmJvfXgYhmDsfNcPZYFtd/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View-Certificate-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+<br><br>
+
+**Provider:** EDGES<br>
+**Duration:** 12 Weeks<br>
+**Completion:** May 2026<br>
+**Credential ID:** ASW-5-1
+
+</td>
+</tr>
+</table>
 ## GitHub Analytics
 
 <p align="center">
