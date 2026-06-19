@@ -41,7 +41,7 @@
 
 I am a Computer Science student based in Cairo, Egypt, with a strong foundation in software engineering, AI systems, and systems programming. My work spans game AI with logic programming, algorithmic problem solving, large-scale C++ system design, and mobile development with Flutter.
 
-I approach every project with an engineering mindset — clean architecture, logical correctness, and real-world impact. I have built AI-powered applications using Prolog, implemented search algorithms and heuristic evaluation functions from scratch, and designed full system simulations in C++.
+I approach every project with an engineering mindset clean architecture, logical correctness, and real-world impact. I have built AI-powered applications using Prolog, implemented search algorithms and heuristic evaluation functions from scratch, and designed full system simulations in C++.
 
 **Open To:** Internships &nbsp;·&nbsp; Junior Software Engineering Roles &nbsp;·&nbsp; Open Source Collaboration &nbsp;·&nbsp; Research Projects
 
@@ -252,6 +252,9 @@ Building software across AI, systems programming, and mobile development through
 </td>
 </tr>
 </table>
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
